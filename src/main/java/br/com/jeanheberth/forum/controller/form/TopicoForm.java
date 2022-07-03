@@ -1,4 +1,4 @@
-package br.com.jeanheberth.forum.controller.forum;
+package br.com.jeanheberth.forum.controller.form;
 
 import br.com.jeanheberth.forum.modelo.Curso;
 import br.com.jeanheberth.forum.modelo.Topico;
