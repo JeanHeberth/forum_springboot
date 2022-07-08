@@ -42,7 +42,7 @@ public class TopicoController {
         }
     }
 
-    /* Método para cadastrar curso */
+    /* Método para cadastrar curso **/
     @PostMapping
     @Transactional
     public ResponseEntity<TopicoDto> cadastrar(@RequestBody @Valid TopicoForm topicoForm, UriComponentsBuilder uriComponentsBuilder) {
